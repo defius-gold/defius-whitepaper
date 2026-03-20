@@ -6,6 +6,9 @@ In traditional Decentralized Finance (DeFi) protocols, structural advantages are
 
 **defius.gold** introduces a paradigm shift: a mathematically capped, chronological distribution system. By organizing liquidity providers (LPs) into perfect sequential layers, capping absolute returns at 40%, and enforcing a strict 1 USDC Liquidity unit participation limit, the protocol creates an ecosystem of absolute fairness, hyper-low risk, and sustained equilibrium. 
 
+<img width="512" height="768" alt="defius-diagram" src="https://github.com/user-attachments/assets/b3ff7310-20cb-4e54-adb9-9b88d6c1e813" />
+
+
 ## 2. Core Mechanism: The Layered Queue System
 The defius.gold smart contract replaces traditional, volume-dependent yield models with a **Strict Chronological Layering System (SCLS)**.
 
