@@ -1,6 +1,8 @@
 # defius.gold Whitepaper
 **A Fair-Launch, Chronological Liquidity Redistribution Protocol**
 
+🌐 **Official Website & dApp:** [defius.gold](https://defius.gold)
+
 ## 1. Abstract
 In traditional Decentralized Finance (DeFi) protocols, structural advantages are heavily skewed toward early adopters and capital-rich entities (whales). In most yield-farming and liquidity models, early entrants compound their earnings infinitely, ultimately using latecomers as exit liquidity. 
 
