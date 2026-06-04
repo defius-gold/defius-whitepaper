@@ -8,7 +8,7 @@ In traditional Decentralized Finance (DeFi) protocols, structural advantages are
 
 **defius.gold** introduces a paradigm shift: a mathematically capped, chronological distribution system. By organizing liquidity providers (LPs) into perfect sequential layers, capping returns at 40% per cycle, and enforcing a strict 1 USDC Liquidity unit participation limit, the protocol creates an ecosystem of absolute fairness, hyper-low risk, and sustained equilibrium. 
 
-<img width="512" height="768" alt="defius-diagram" src="https://github.com/user-attachments/assets/b3ff7310-20cb-4e54-adb9-9b88d6c1e813" />
+<img width="512" height="768" alt="defius-diagram" src="https://raw.githubusercontent.com/defius-gold/defius-whitepaper/main/defius-diagram.png" />
 
 
 ## 2. Core Mechanism: The Layered Queue System
