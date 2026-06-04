@@ -1,5 +1,5 @@
 # defius.gold Whitepaper
-**Crypto Market Profit Finder (Long and Short) with unlimited 40% earnings chronological layer cycles.**
+**Crypto Market Profit Finder (Long and Short) with unlimited 40% earnings cycles.**
 
 🌐 **Official Website & dApp:** [defius.gold](https://defius.gold)
 
