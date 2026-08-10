@@ -47,3 +47,25 @@ interface IDefiusPool {
     function addLiquidity() external;
     function withdraw() external;
 }
+
+interface IDefiusDashboard {
+    function mktTotalBurned()
+        external
+        view
+        returns (uint256);
+
+    function profitReady(address account)
+        external
+        view
+        returns (uint256);
+
+    function allTimeMade(address account)
+        external
+        view
+        returns (uint256);
+
+    function getDashboardStats(address user) 
+        external
+        view
+        returns (uint256[5] memory);
+}
